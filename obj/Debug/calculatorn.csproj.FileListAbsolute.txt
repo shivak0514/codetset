@@ -1,0 +1,9 @@
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\bin\Debug\calculatorn.exe.config
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\bin\Debug\calculatorn.exe
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\bin\Debug\calculatorn.pdb
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.csprojResolveAssemblyReference.cache
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.Form1.resources
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.Properties.Resources.resources
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.csproj.GenerateResource.Cache
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.exe
+c:\users\shivaram\documents\visual studio 2015\Projects\calculatorn\calculatorn\obj\Debug\calculatorn.pdb
